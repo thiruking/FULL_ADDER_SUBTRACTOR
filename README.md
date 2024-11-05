@@ -43,13 +43,33 @@ Borrow out = A'Bin + A'B + BBin
 Write the detailed procedure here
 
 **Program:**
+```
+module experiment4(df,bo,a,b,bin);
+output df;
+output bo;
+input a;
+input b;
+input bin;
+wire w1,w2,w3;
+assign w1=a^b;
+assign w2=(~a&b);
+assign w3=(~w1&bin);
+assign df=w1^bin;
+assign bo=w2|w3;
+endmodule
+```
 
 /* Program to design a half subtractor and full subtractor circuit and verify its truth table in quartus using Verilog programming. Developed by: RegisterNumber:
 */
 
 **RTL Schematic**
+![Screenshot 2024-11-05 172258](https://github.com/user-attachments/assets/a699cfeb-efb4-4280-b1fe-cf0debf77873)
+
+
 
 **Output Timing Waveform**
+![Screenshot 2024-11-05 172429](https://github.com/user-attachments/assets/1188253c-db17-4e7f-aabe-50b9edf8d8ef)
+
 
 **Result:**
 
