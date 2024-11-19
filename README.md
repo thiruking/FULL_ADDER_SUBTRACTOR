@@ -68,7 +68,8 @@ endmodule
 
 
 **Output Timing Waveform**
-![Screenshot 2024-11-05 172429](https://github.com/user-attachments/assets/1188253c-db17-4e7f-aabe-50b9edf8d8ef)
+![Screenshot 2024-11-19 185709](https://github.com/user-attachments/assets/1b649e2e-f57e-4b0b-bdea-8249b07f6bcd)
+
 
 
 **Result:**
