@@ -81,6 +81,8 @@ endmodule
 */
 
 **RTL Schematic**
+![image](https://github.com/user-attachments/assets/2335a954-28a1-4074-94e0-4c0731fbe4da)
+
 ![Screenshot 2024-11-05 172258](https://github.com/user-attachments/assets/a699cfeb-efb4-4280-b1fe-cf0debf77873)
 
 
